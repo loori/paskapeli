@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\fuck u dickhead.js">
+    <Files>
+      <File FileName="Assets\fuck u dickhead.js" Line="1" Column="1" />
+      <File FileName="Assets\player 3.js" Line="1" Column="1" />
+      <File FileName="Assets\erilainenenemy.js" Line="1" Column="1" />
+      <File FileName="Assets\playermovement.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
